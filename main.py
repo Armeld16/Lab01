@@ -67,7 +67,7 @@ def gioca(domande):
             livello_corrente += 1
             punti += 1
         else:
-            print("Risposta sbagliata!")
+            print(f"Risposta sbagliata!, la risposta giusta è: {domanda_scelta.opzione_giusta}")
             break
 
     nickname = input("Partita finita inserire il tuo nickname: ")

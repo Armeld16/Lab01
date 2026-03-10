@@ -1,7 +1,10 @@
 Armi 5
 Paolo 4
 Tubo 4
+Sajra2 3
 Bea 2
 Lucia 1
 Mario 1
+Sajra 1
+Vitto 1
 Giuseppe 0
