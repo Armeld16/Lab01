@@ -1,4 +1,7 @@
+Armi 5
 Paolo 4
+Tubo 4
+Bea 2
 Lucia 1
 Mario 1
 Giuseppe 0
